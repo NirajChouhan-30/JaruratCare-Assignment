@@ -8,6 +8,36 @@ The platform streamlines support requests, volunteer registration, and case mana
 
 ---
 
+## Admin Access
+
+The Admin Dashboard is protected using JWT Authentication.
+
+### Access Steps
+
+1. Open the application.
+2. Navigate to:
+   /login
+
+3. Login using the admin credentials.
+4. After successful authentication, the Dashboard link will appear in the navigation bar.
+5. Open the Dashboard to:
+   - View support requests
+   - Review AI-generated request analysis
+   - Manage volunteers
+   - Assign volunteers to patient requests
+
+### Demo Admin Credentials
+
+Email:
+[admin@jaruratcare.com](mailto:admin@jaruratcare.com)
+
+Password:
+admin123
+
+> Note: These credentials are provided for assignment evaluation purposes only.
+
+---
+
 ## Problem Statement
 
 Many patients, especially elderly individuals and those in underserved communities, struggle to access healthcare support services such as:

@@ -25,7 +25,6 @@ icon: Users,
 const StatsSection = () => {
 return ( <section className="-mt-12 relative z-10"> <div className="max-w-7xl mx-auto px-6">
 
-```
     <div className="grid md:grid-cols-3 gap-6">
 
       {stats.map((item) => (
